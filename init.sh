@@ -17,7 +17,6 @@ if [ ! -d "~/bin" ]; then
 	mkdir ~/bin
 fi
 
-mkdir ~/bin
 cp subl ~/bin/subl
 
 source ~/.bash_profile
