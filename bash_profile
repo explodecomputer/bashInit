@@ -30,3 +30,5 @@ alias bluecrystal2='ssh -Y gh13047@bluecrystalp2.bris.ac.uk'
 alias bluecrystal3='ssh -Y gh13047@newblue4.acrc.bris.ac.uk'
 alias sbluecrystal3='sftp gh13047@newblue4.acrc.bris.ac.uk'
 alias pi='ssh -Y pi@192.168.0.8'
+
+PATH=$PATH:$HOME/bin
