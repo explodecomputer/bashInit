@@ -1,0 +1,37 @@
+Host cluster.qbi.uq.edu.au
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host inode.qbi.uq.edu.au
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host m2.massive.org.au
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host trident1.int.tri.edu.au
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host fornax.ivec.org
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host gibranhemani.com
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host explodecomputer.com
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host ctgg.qbi.uq.edu.au
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host bluecrystalp1.bris.ac.uk
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host bluecrystalp2.bris.ac.uk
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host newblue4.acrc.bris.ac.uk
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+Host 192.168.0.8
+  ForwardAgent yes
+  RemoteForward 52698 127.0.0.1:52698
+  
