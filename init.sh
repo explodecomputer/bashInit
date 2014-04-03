@@ -1,9 +1,8 @@
 #!/bin/bash
 
-cp bash_profile.sh ~/.bash_profile.sh
-cp git-prompt.sh ~/.git_prompt.sh
-
-if [ ! -d "~/.ssh" ]; then
+cp bash_profile ~/.bash_profile
+cp git-prompt.sh ~/.git-prompt.sh
+if [ -d "~/.ssh" ]; then
 	mkdir ~/.ssh
 fi
 
