@@ -10,6 +10,8 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 alias g='git status | less'
 
 
+alias subl='xeno edit'
+
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 export PS1="\n\e[0;32m\]\h\[\e[m\]\] :: \d \t :: \e[0;31m\]\w\e[m\] \$(__git_ps1)\n$ "
 
