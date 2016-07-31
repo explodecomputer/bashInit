@@ -16,4 +16,6 @@ chmod 400 ~/.ssh/authorized_keys
 mkdir -p ~/bin
 cp xeno ~/bin/xeno
 
-source ~/.bash_profile
+git config --global user.email "explodecomputer@gmail.com"
+git config --global user.name "Gibran Hemani"
+
